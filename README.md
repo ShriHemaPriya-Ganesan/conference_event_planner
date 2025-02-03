@@ -1,4 +1,4 @@
-# Conference Event Planner
+# Conference Expense Planner
 Event Planning and Conference Budgeting Application built using Vite and React 18. It provides an interactive and user-friendly interface for organizations and individuals to plan conferences efficiently by selecting venues, adding optional services, and calculating total costs dynamically.
 
 # Project Overview
