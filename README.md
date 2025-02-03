@@ -10,7 +10,7 @@ Displays the project title, "Conference Expense Planner," with a call-to-action 
 A prominent "Get Started" button for easy navigation.
 A welcoming message from BudgetEase Solutions, emphasizing their expertise in budget management and financial planning.
 Highlights the platform’s commitment to efficiency and innovation, empowering individuals and businesses to streamline their budgeting process.
-![image](https://github.com/user-attachments/assets/dee8dfa5-ff02-44d5-b113-098e1b6de7fd)
+![image](https://github.com/user-attachments/assets/c2a4a991-510a-4488-b0b5-14c76354607b)
 
 # 1. Venue Selection:
 Users can browse and select from different conference rooms based on their capacity and cost.
