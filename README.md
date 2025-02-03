@@ -9,6 +9,8 @@ The application is designed to streamline the process of planning and budgeting 
 Users can browse and select from different conference rooms based on their capacity and cost.
 Each venue has a set rental price and an adjustable quantity (number of rooms required).
 A restriction is applied (e.g., Auditorium Hall can only be booked up to a maximum of three times).
+![image](https://github.com/user-attachments/assets/d6ea80ba-387b-4c37-a469-c49982b99ead)
+
 # 2. Add-Ons & Services:
 Additional services like projectors, speakers, microphones, whiteboards and signage can be selected to enhance the event experience.
 Users can toggle selections, and prices are updated dynamically.
